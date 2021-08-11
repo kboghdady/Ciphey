@@ -10,6 +10,8 @@ Translations <br>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/pt-br/README.md>🇧🇷 PT-BR   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/ru/README.md>🇷🇺 RU   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/zh/README.md>🇨🇳 ZH   </a>
+<a href=https://github.com/Ciphey/Ciphey/tree/master/translations/ar/README.md>:egypt: AR  </a>
+
  <br><br>
 ➡️
 <a href="https://github.com/Ciphey/Ciphey/wiki">Документация</a> |
